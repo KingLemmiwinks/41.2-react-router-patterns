@@ -1,0 +1,21 @@
+.Colors {
+  text-align: center;
+}
+
+.Colors .banner {
+  background-color: black;
+  color: white;
+  height: 150px;
+}
+
+.Colors h4 {
+  display: inline-block;
+}
+
+.Colors .banner a {
+  color: white;
+}
+
+.Colors ul {
+  list-style: none;
+}
